@@ -1,13 +1,13 @@
 <!--
-This file is part of YOUR_PROJECT_TITLE
+This file is part of Gabriel Mongefranco's Open Source Portfolio
 README.md
 Author(s): Gabriel Mongefranco
-Created: 2026-01-01
-Last Modified: 2026-09-05
+Created: 2026-09-27
+Last Modified: 2026-09-27
 Summary: Provides an overview of the project, in Markdown format.
 Notes: See README file for documentation and full license information.
 
-Copyright © YOUR_YEAR Gabriel Mongefranco
+Copyright © 2026 Gabriel Mongefranco
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -20,52 +20,36 @@ You should have received a copy of the GNU General Public License along
 with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -->
-> [!NOTE]
-> # Gabriel Mongefranco's Repo Template
-> <sub>Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
-> ## **Template Setup Instructions (Delete this block when done)**
-> + Click the **"Use this template"** button, or download or fork this repo.
-> + Then, do a global **Find and Replace All** (Ctrl+Shift+H or Cmd+Shift+H) across all project files for the following variables:
->   * `YOUR_PROJECT_TITLE` → e.g., `Sleep Data Analyzer`
->   * `YOUR_REPO_NAME` → e.g., `sleep-data-analyzer` (no spaces, used for URLs)
->   * `YOUR_YEAR` → e.g., `2026`
->   * `YOUR_DOI` → e.g., `10.5281/zenodo.xxxxxxx` (or delete if not yet assigned)
-> + Manually edit these sections:
->   1. `README.md` → Description section and Credits section
->   2. `CITATION.cff` → `authors:` block
->   3. `.zenodo.json` → `creators:` block
-> + When done, delete the setup instructions but keep the template attribution above.
-
-
-# YOUR_PROJECT_TITLE
+# Gabriel Mongefranco's Open Source Portfolio
+<sub>Created from [Gabriel Mongefranco's Repo Template](https://github.com/gabrielmongefranco/repo-template). Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
 
 ## Description
-YOUR_PROJECT_TITLE is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
+Gabriel Mongefranco's Open Source Portfolio is the GitHub Pages user site for [@gabrielmongefranco](https://github.com/gabrielmongefranco). It is published at [dev.mongefranco.com](https://dev.mongefranco.com) and will list the open source apps that Gabriel builds and maintains.
 
-![Preview Image](images/Repo-preview.png)
-
-< List of key features, or a few sentences about what makes this project unique >.
+Each app lives in its own repository. When an app's repository turns on GitHub Pages, it is served under this domain at `https://dev.mongefranco.com/<repository-name>/`. For now, the home page sends visitors to the [GitHub profile](https://github.com/gabrielmongefranco) until the portfolio page is built.
 
 
 ## Quick Start Guide
-+ < Short compile/run instructions, without too much detail >
-
++ Visit [dev.mongefranco.com](https://dev.mongefranco.com).
++ To preview locally, open `index.html` in a web browser. The site is static HTML with no build step.
++ Changes merged into `main` are published by GitHub Pages.
 
 
 ## Documentation
-+ **Complete documentation:** See the [`/docs`](./docs) folder in this repository for setup guides, usage examples, architecture, and technical details.
++ **Complete documentation:** See the [`/docs`](./docs) folder in this repository. Start with [Site hosting and structure](docs/architecture.md).
 
 
 
 
 ## Additional Resources
-+ < Links to study website, related projects, etc. >
++ [Gabriel Mongefranco's GitHub profile](https://github.com/gabrielmongefranco)
++ [GitHub Pages documentation](https://docs.github.com/en/pages)
 
 
 
 ## About the Author
 
-YOUR_PROJECT_TITLE is built by [Gabriel Mongefranco](https://gabriel.mongefranco.com), a database and
+Gabriel Mongefranco's Open Source Portfolio is built by [Gabriel Mongefranco](https://gabriel.mongefranco.com), a database and
 software architect who has spent two decades building data platforms in healthcare and
 research — enterprise data warehouses, BI systems, knowledge bases, and the first architecture for mobile and
 wearable research data at a large research university.
@@ -82,28 +66,15 @@ free to send pull requests as well!
 ## Credits
 ### Authors:
 + [Gabriel Mongefranco](https://gabriel.mongefranco.com) [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
-+ Name [ @githubusername ]( link to github profile or website )
-+ Name [ @githubusername ]( link to github profile or website )
-+ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
-+ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
-
-### Contributors:
-+ Name [ @githubusername ]( link to github profile or website )
-+ Name [ @githubusername ]( link to github profile or website )
-+ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
-+ [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
-
-
 
 #### This work is based in part on the following projects, libraries and/or studies:
-+ None
-+ __OR__ < Library_or_project_name > : < what_it_does.  How_it_is_used_in_this_project. > License: < license >. < link >
++ [gabrielmongefranco/repo-template](https://github.com/gabrielmongefranco/repo-template): repository template that provides the project structure, agent instructions, and license notices. It is based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template). License: GPLv3 and GNU FDL.
 
 
 
 ## License
 ### Copyright Notice
-Copyright © YOUR_YEAR Gabriel Mongefranco
+Copyright © 2026 Gabriel Mongefranco
 
 
 ### Software and Library License Notice
@@ -128,15 +99,8 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 If you find this repository, code or paper useful for your research, please cite it.
 
 #### Citation Example:
->_Mongefranco, Gabriel (YOUR_YEAR). YOUR_PROJECT_TITLE. Software. https://github.com/gabrielmongefranco/YOUR_REPO_NAME_
-​​​​​​​     _DOI: [YOUR_DOI](https://doi.org/YOUR_DOI)_
-
-#### __OPTIONAL__ Release History and DOI #:
-* 2026-01-01: v1.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1 >](https://doi.org/...)
-* 2026-06-30: v1.5. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v1_5 >](https://doi.org/...)
-* 2026-12-01: v2.0. [< DOI # e.g. 10.6084/m9.figshare.xxxxxx.v2 >](https://doi.org/...)
-
+>_Mongefranco, Gabriel (2026). Gabriel Mongefranco's Open Source Portfolio. Software. https://github.com/gabrielmongefranco/gabrielmongefranco.github.io_
 
 ----
 
-Copyright © YOUR_YEAR Gabriel Mongefranco
+Copyright © 2026 Gabriel Mongefranco
