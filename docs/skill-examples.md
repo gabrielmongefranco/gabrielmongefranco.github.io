@@ -1,11 +1,11 @@
 <!--
-This file is part of YOUR_PROJECT_TITLE
-Copyright © YOUR_YEAR Gabriel Mongefranco
+This file is part of Gabriel Mongefranco's Open Source Portfolio
+Copyright © 2026 Gabriel Mongefranco
 Licensed under the GNU Free Documentation License v1.3 or later.
 See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
 -->
 
-# YOUR_PROJECT_TITLE
+# Gabriel Mongefranco's Open Source Portfolio
 
 ## Skill authoring examples
 
@@ -44,8 +44,8 @@ description: Complete a defined recurring project task when its specific inputs 
 ---
 
 <!--
-This file is part of YOUR_PROJECT_TITLE
-Copyright © YOUR_YEAR Gabriel Mongefranco
+This file is part of Gabriel Mongefranco's Open Source Portfolio
+Copyright © 2026 Gabriel Mongefranco
 Licensed under the GNU Free Documentation License v1.3 or later.
 See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
 -->
