@@ -6,6 +6,9 @@ Created: 2026-09-27
 Last Modified: 2026-09-27
 Summary: Provides an overview of the project, in Markdown format.
 Notes: See README file for documentation and full license information.
+       Created from Gabriel Mongefranco's Repo Template (https://github.com/gabrielmongefranco/repo-template).
+       Copyright © 2026 Gabriel Mongefranco. Based on @DepressionCenter/EFDC-Repo-Template
+       (https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).
 
 Copyright © 2026 Gabriel Mongefranco
 
@@ -21,12 +24,9 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -->
 # Gabriel Mongefranco's Open Source Portfolio
-<sub>Created from [Gabriel Mongefranco's Repo Template](https://github.com/gabrielmongefranco/repo-template). Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
 
 ## Description
 Gabriel Mongefranco's Open Source Portfolio is the GitHub Pages user site for [@gabrielmongefranco](https://github.com/gabrielmongefranco). It is published at [dev.mongefranco.com](https://dev.mongefranco.com) and will list the open source apps that Gabriel builds and maintains.
-
-Each app lives in its own repository. When an app's repository turns on GitHub Pages, it is served under this domain at `https://dev.mongefranco.com/<repository-name>/`. For now, the home page sends visitors to the [GitHub profile](https://github.com/gabrielmongefranco) until the portfolio page is built.
 
 
 ## Quick Start Guide
